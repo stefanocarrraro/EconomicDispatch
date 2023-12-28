@@ -1,6 +1,6 @@
 # EconomicDispatch
 The following code is a mixed integer linear programming (MILP) optimisation for an multi period economic load dispatch problem. It is implemented using pyomo.
-This was a part of the course "Power system analysis and optimisation" taught at Eindhoven University of Technology, Eondhoven. No rights can be derived from this.
+This was a part of the course "Power system analysis and optimisation" taught at Eindhoven University of Technology, Eindhoven. No rights can be derived from this.
 
 How to run the programe:
 * Install a free academic liscense from GUROBI.com
